@@ -4,3 +4,5 @@ understanding 'this' in js
 css--holy grail  
 3. https://johnresig.com/blog/how-javascript-timers-work/  
 js timer
+4. http://skilldrick.co.uk/2011/04/closures-explained-with-javascript/  
+js closure
